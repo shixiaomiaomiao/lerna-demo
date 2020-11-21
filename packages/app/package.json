@@ -1,0 +1,32 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "description": "a normal app",
+  "keywords": [
+    "app"
+  ],
+  "author": "alice.shi <alice.shi@bytedance.com>",
+  "homepage": "https://github.com/shixiaomiaomiao/lerna-demo#readme",
+  "license": "ISC",
+  "main": "lib/app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://bnpm.byted.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shixiaomiaomiao/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/shixiaomiaomiao/lerna-demo/issues"
+  }
+}
