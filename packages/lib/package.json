@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/shixiaomiaomiao/lerna-demo/issues"
   },
-  "gitHead": "1d4cc5f817dfdf0f5527f78bf7c0b15c72e8d54f",
+  "gitHead": "ba5149a8096e1d003fd83e669cafa9ea6e584781",
   "dependencies": {
     "my-app": "^0.0.2",
     "react": "^17.0.1"

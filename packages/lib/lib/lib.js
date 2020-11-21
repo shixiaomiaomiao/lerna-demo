@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2020-11-21 08:37:09
- * @LastEditTime: 2020-11-21 08:58:57
+ * @LastEditTime: 2020-11-21 09:02:48
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /lerna-demo/packages/lib/lib/lib.js
@@ -17,4 +17,4 @@ function lib() {
     myApp();
 }
 
-console.log('lib outsider');
+console.log('lib 111 outsider');
